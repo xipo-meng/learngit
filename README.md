@@ -1,3 +1,2 @@
 # learngit
-jvnjdfnjn jdfnvjndjn nsdvkndkvnknv kj
-vkmkdmvsaasdse
+git is very funny!
